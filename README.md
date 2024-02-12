@@ -14,12 +14,6 @@
 
 ![Shoppie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
 ### Run Locally
 
 To run **Shoppie** locally, run this command on your git bash:
@@ -27,19 +21,15 @@ To run **Shoppie** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/shoppie.git
+sudo git clone https://github.com/muzaffargujjar/e-store.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/shoppie.git
+git clone https://github.com/muzaffargujjar/e-store.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/muzaffargujjar0).
